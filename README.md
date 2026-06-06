@@ -126,7 +126,7 @@ Modern web applications built using React.js, Node.js, and database technologies
 ## 📫 Connect With Me
 
 * Portfolio: [Your Portfolio URL]
-* GitHub: [https://www.linkedin.com/in/waqar583/](https://github.com/wikkikhan)
+* GitHub: [https://github.com/wikkikhan](https://github.com/wikkikhan)
 * LinkedIn: [https://www.linkedin.com/in/waqar583/](https://www.linkedin.com/in/waqar583/)
 
 ---
