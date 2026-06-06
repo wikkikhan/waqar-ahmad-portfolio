@@ -125,7 +125,7 @@ Modern web applications built using React.js, Node.js, and database technologies
 
 ## 📫 Connect With Me
 
-* Portfolio: [Your Portfolio URL]
+* Portfolio: [https://waqar-ahmad-portfolio-theta.vercel.app](https://waqar-ahmad-portfolio-theta.vercel.app/)
 * GitHub: [https://github.com/wikkikhan](https://github.com/wikkikhan)
 * LinkedIn: [https://www.linkedin.com/in/waqar583/](https://www.linkedin.com/in/waqar583/)
 
